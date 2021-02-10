@@ -1,11 +1,11 @@
 Summary:	Non-interactive ssh password auth
 Name:		sshpass
-Version:	1.06
+Version:	1.09
 Release:	1
 License:	GPL v2
 Group:		Applications/Networking
 Source0:	http://downloads.sourceforge.net/sshpass/%{name}-%{version}.tar.gz
-# Source0-md5:	f59695e3b9761fb51be7d795819421f9
+# Source0-md5:	191a9128a74d81ae36744d5deb50d164
 URL:		http://sshpass.sourceforge.net/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
